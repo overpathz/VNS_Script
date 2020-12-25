@@ -1,0 +1,2 @@
+loginVNS = 'yourlogin'
+pswdVNS = 'yourPassword'
